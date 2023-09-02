@@ -34,19 +34,16 @@ format suitable for analysis.
 2. Key Performance Indicators (KPIs): Identify key performance indicators related to 
 wastewater management.
 
-# KPI                                          | # Analysis 
------------------------------------------------|--------------------------------------------------
-1.Plant that is treating maximum &             | Bar Chart
-minimum volume of waste water = Bar Chart      |
-                                               |
-2.% Contribution of waste water from           | Pie Chart                                           |
-different Sources = Pie Chart                  |
-                                               |
-3.Highly utilized Treatment Plant Horizontal   | Horizontal Bar Char
-                                               |
-4.Highly Efficient Treatment Plant Horizontal  | Horizontal Bar Char
-                                               |
-5.Day Wise Activity of Treatment Plant         | Line Chart
+# KPI                                        
+1.Plant that is treating maximum &  minimum volume of waste water = Bar Chart                |
+                                              
+2.% Contribution of waste water from different Sources = Pie Chart                
+                                               
+3.Highly utilized Treatment Plant Horizontal  =  Horizontal Bar Char
+                                               
+4.Highly Efficient Treatment Plant Horizontal = Horizontal Bar Char
+                                               
+5.Day Wise Activity of Treatment Plant = Line Chart
 
 
 3. Analytical Report: Creation analytical reports that provide insights into wastewater 
